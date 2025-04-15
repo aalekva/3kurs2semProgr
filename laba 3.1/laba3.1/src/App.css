@@ -1,0 +1,12 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+  padding: 10px; 
+}
