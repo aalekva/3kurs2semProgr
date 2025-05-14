@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\laba89.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\laba89.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|d:\\3 kurs 2 sem pasha\\laba 8 zametki\\laba89\\laba89\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4853F17-2233-4B91-9205-DE52C3E34F44}|laba89\\laba89.csproj|solutionrelative:laba89\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "laba89\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Properties\\launchSettings.json",
+              "RelativeToolTip": "laba89\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T18:37:52.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Program.cs",
+              "RelativeDocumentMoniker": "laba89\\Program.cs",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Program.cs",
+              "RelativeToolTip": "laba89\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:42:39.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "laba89.csproj",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\laba89.csproj",
+              "RelativeDocumentMoniker": "laba89\\laba89.csproj",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\laba89.csproj",
+              "RelativeToolTip": "laba89\\laba89.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T16:45:40.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "laba89\\appsettings.Development.json",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\appsettings.Development.json",
+              "RelativeToolTip": "laba89\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T17:25:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Contracts\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "laba89\\Contracts\\GetNotesRequest.cs",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Contracts\\GetNotesRequest.cs",
+              "RelativeToolTip": "laba89\\Contracts\\GetNotesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:07:24.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Contracts\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "laba89\\Contracts\\GetNotesResponse.cs",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Contracts\\GetNotesResponse.cs",
+              "RelativeToolTip": "laba89\\Contracts\\GetNotesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:09:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\DataAccess\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "laba89\\DataAccess\\NotesDbContext.cs",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\DataAccess\\NotesDbContext.cs",
+              "RelativeToolTip": "laba89\\DataAccess\\NotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:04:13.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "laba89\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "laba89\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:46:40.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Contracts\\NoteDto.cs",
+              "RelativeDocumentMoniker": "laba89\\Contracts\\NoteDto.cs",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Contracts\\NoteDto.cs",
+              "RelativeToolTip": "laba89\\Contracts\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:12:15.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Contracts\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "laba89\\Contracts\\CreateNoteRequest.cs",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Contracts\\CreateNoteRequest.cs",
+              "RelativeToolTip": "laba89\\Contracts\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:39:46.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "laba89\\Models\\Note.cs",
+              "ToolTip": "D:\\3 kurs 2 sem Pasha\\LABA 8 zametki\\laba89\\laba89\\Models\\Note.cs",
+              "RelativeToolTip": "laba89\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:58:47.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
